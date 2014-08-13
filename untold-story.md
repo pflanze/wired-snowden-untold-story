@@ -1,10 +1,10 @@
-This is a copy of the text at http://www.wired.com/2014/08/edward-snowden/ (for easier reading)
+This is a copy of the text at [http://www.wired.com/2014/08/edward-snowden/](http://www.wired.com/2014/08/edward-snowden/) for easier reading.
 
-Edward Snowden: The Untold Story
+# Edward Snowden: The Untold Story
 
 THE MESSAGE ARRIVES on my “clean machine,” a MacBook Air loaded only
 with a sophisticated encryption package. “Change in plans,” my contact
-says. “Be in the lobby of the Hotel ______ by 1 pm. Bring a book and
+says. “Be in the lobby of the Hotel \______ by 1 pm. Bring a book and
 wait for ES to find you.” ¶ ES is Edward Snowden, the most wanted man
 in the world. For almost nine months, I have been trying to set up an
 interview with him—traveling to Berlin, Rio de Janeiro twice, and New
@@ -81,7 +81,7 @@ encroachments on privacy.
 
 Of course, Snowden is still very cautious about arranging face-to-face
 meetings, and I am reminded why when, preparing for our interview, I
-read a recent Washington Post report. The story, by Greg Miller,
+read a recent *Washington Post* report. The story, by Greg Miller,
 recounts daily meetings with senior officials from the FBI, CIA, and
 State Department, all desperately trying to come up with ways to
 capture Snowden. One official told Miller: “We were hoping he was
@@ -135,6 +135,7 @@ Westerners. Nevertheless, when he's out in public at, say, a computer
 store, Russians occasionally recognize him. “Shh,” Snowden tells them,
 smiling, putting a finger to his lips.
 
+<hr width="30%"/>
 
 DESPITE BEING THE subject of a worldwide manhunt, Snowden seems
 relaxed and upbeat as we drink Cokes and tear away at a giant
@@ -154,11 +155,11 @@ longer has access to them; he says he didn't bring them with him to
 Russia. Copies are now in the hands of three groups: First Look Media,
 set up by journalist Glenn Greenwald and American documentary
 filmmaker Laura Poitras, the two original recipients of the documents;
-The Guardian newspaper, which also received copies before the British
+*The Guardian* newspaper, which also received copies before the British
 government pressured it into transferring physical custody (but not
-ownership) to The New York Times; and Barton Gellman, a writer for The
-Washington Post. It's highly unlikely that the current custodians will
-ever return the documents to the NSA.
+ownership) to *The New York Times*; and Barton Gellman, a writer for 
+*The Washington Post*. It's highly unlikely that the current
+custodians will ever return the documents to the NSA.
 
      [Edward Snowden explains in his own words why he decided to
      reveal secret details of the domestic surveillance being
@@ -222,7 +223,7 @@ believe another whistle-blower is releasing secret documents to the
 media.
 
 In fact, on the first day of my Moscow interview with Snowden, the
-German newsmagazine Der Spiegel comes out with a long story about the
+German newsmagazine *Der Spiegel* comes out with a long story about the
 NSA's operations in Germany and its cooperation with the German
 intelligence agency, BND. Among the documents the magazine releases is
 a top-secret “Memorandum of Agreement” between the NSA and the BND
@@ -231,7 +232,7 @@ from 2002. “It is not from Snowden's material,” the magazine notes.
 Some have even raised doubts about whether the infamous revelation
 that the NSA was tapping German chancellor Angela Merkel's cell phone,
 long attributed to Snowden, came from his trough. At the time of that
-revelation, Der Spiegel simply attributed the information to Snowden
+revelation, *Der Spiegel* simply attributed the information to Snowden
 and other unnamed sources. If other leakers exist within the NSA, it
 would be more than another nightmare for the agency—it would
 underscore its inability to control its own information and might
@@ -244,7 +245,7 @@ going. And if that's the case, how can we as the public trust the NSA
 with all of our information, with all of our private records, the
 permanent record of our lives?”
 
-The Der Spiegel articles were written by, among others, Poitras, the
+The *Der Spiegel* articles were written by, among others, Poitras, the
 filmmaker who was one of the first journalists Snowden contacted. Her
 high visibility and expertise in encryption may have attracted other
 NSA whistle-blowers, and Snowden's cache of documents could have
@@ -253,6 +254,7 @@ Poitras and ask her point-blank whether there are other NSA sources
 out there. She answers through her attorney: “We are sorry but Laura
 is not going to answer your question.”
 
+<hr width="30%"/>
 
 THE SAME DAY I share pizza with Snowden in a Moscow hotel room, the US
 House of Representatives moves to put the brakes on the NSA. By a
@@ -290,7 +292,7 @@ accused him of causing “irreversible and significant damage.” More
 recently, Secretary of State John Kerry said that “Edward Snowden is a
 coward, he is a traitor, and he has betrayed his country.” But in
 June, the government seemed to be backing away from its most
-apocalyptic rhetoric. In an interview with The New York Times, the new
+apocalyptic rhetoric. In an interview with *The New York Times*, the new
 head of the NSA, Michael Rogers, said he was “trying to be very
 specific and very measured in my characterizations”: “You have not
 heard me as the director say, ‘Oh my God, the sky is falling.’”
@@ -362,6 +364,7 @@ well on an aptitude test, he was admitted. But the physical
 requirements were more challenging. He broke both of his legs in a
 training accident. A few months later he was discharged.
 
+<hr width="30%"/>
 
 OUT OF THE Army, Snowden landed a job as a security guard at a
 top-secret facility that required him to get a high-level security
@@ -468,7 +471,7 @@ emails and phone calls of millions of Arab and Palestinian Americans
 whose relatives in Israel-occupied Palestine could become targets
 based on the communications. “I think that's amazing,” Snowden
 says. “It's one of the biggest abuses we've seen.” (The operation was
-reported last year by The Guardian, which cited the Snowden documents
+reported last year by *The Guardian*, which cited the Snowden documents
 as its source.)
 
 Another troubling discovery was a document from NSA director Keith
@@ -500,6 +503,7 @@ didn’t have a Senate committee at his disposal or the power of
 congressional subpoena. He’d have to carry out his mission covertly,
 just as he’d been trained.
 
+<hr width="30%"/>
 
 THE SUN SETS late here in June, and outside the hotel window long
 shadows are beginning to envelop the city. But Snowden doesn't seem to
@@ -514,7 +518,7 @@ has many supporters, some accuse him of playing too fast and loose
 with dangerous information. Netscape founder and prominent venture
 capitalist Marc Andreessen has told CNBC, “If you looked up in the
 encyclopedia ‘traitor,’ there's a picture of Edward Snowden.” Bill
-Gates delivered a similarly cutting assessment in a Rolling Stone
+Gates delivered a similarly cutting assessment in a *Rolling Stone*
 interview. “I think he broke the law, so I certainly wouldn't
 characterize him as a hero,” he said. “You won't find much admiration
 from me.”
@@ -581,6 +585,7 @@ outage. Back at TAO's operations center, the tension was broken with a
 joke that contained more than a little truth: “If we get caught, we
 can always point the finger at Israel.”
 
+<hr width="30%"/>
 
 MUCH OF SNOWDEN’S focus while working for Booz Allen was analyzing
 potential cyberattacks from China. His targets included institutions
@@ -681,6 +686,7 @@ burn it to the ground.”
 But he felt that he had no choice. Two months later he boarded a
 flight to Hong Kong with a pocket full of thumb drives.
 
+<hr width="30%"/>
 
 THE AFTERNOON OF our third meeting, about two weeks after our first,
 Snowden comes to my hotel room. I have changed locations and am now
@@ -714,8 +720,8 @@ egregious mistakes. Last year, Greenwald found himself unable to open
 the encryption on a large trove of secrets from GCHQ—the British
 counterpart of the NSA—that Snowden had passed to him. So he sent his
 longtime partner, David Miranda, from their home in Rio to Berlin to
-get another set from Poitras. But in making the arrangements, The
-Guardian booked a transfer through London. Tipped off, probably as a
+get another set from Poitras. But in making the arrangements, *The
+Guardian* booked a transfer through London. Tipped off, probably as a
 result of GCHQ surveillance, British authorities detained Miranda as
 soon as he arrived and questioned him for nine hours. In addition, an
 external hard drive containing 60 gigabits of data—about 58,000 pages
@@ -744,7 +750,7 @@ around the world.”
 
 Until then, Snowden says, the revelations will keep coming. “We
 haven't seen the end,” he says. Indeed, a couple of weeks after our
-meeting, The Washington Post reported that the NSA's surveillance
+meeting, *The Washington Post* reported that the NSA's surveillance
 program had captured much more data on innocent Americans than on its
 intended foreign targets. There are still hundreds of thousands of
 pages of secret documents out there—to say nothing of the other
