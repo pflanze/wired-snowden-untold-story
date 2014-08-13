@@ -22,8 +22,6 @@ rendezvous remain shrouded in mystery. I landed in Moscow without
 knowing precisely where or when Snowden and I would actually
 meet. Now, at last, the details are set.
 
-      [Edward Snowden, June 13, 2014.  PLATON]
-
 I am staying at the Hotel Metropol, a whimsical sand-colored monument
 to pre-revolutionary art nouveau. Built during the time of Czar
 Nicholas II, it later became the Second House of the Soviets after the
@@ -160,10 +158,6 @@ government pressured it into transferring physical custody (but not
 ownership) to *The New York Times*; and Barton Gellman, a writer for 
 *The Washington Post*. It's highly unlikely that the current
 custodians will ever return the documents to the NSA.
-
-     [Edward Snowden explains in his own words why he decided to
-     reveal secret details of the domestic surveillance being
-     conducted by US intelligence services.  PLATON]
 
 That has left US officials in something like a state of impotent
 expectation, waiting for the next round of revelations, the next
